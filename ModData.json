@@ -216,6 +216,13 @@
       "userName": "Contiinuum",
       "displayUserName": "Continuum",
       "description": "Custom Campaigns for Audica!"
+    },
+    {
+      "repoName": "audica-websocket-server",
+      "displayRepoName": "Websocket Server",
+      "userName": "steglasaurous",
+      "displayUserName": "Steglasaurous",
+      "description": "Expose game data via Websocket server (for OBS overlays, etc)"
     }
   ]
 }
